@@ -1,4 +1,4 @@
-# Site web 
+# Website
 HTML + CSS + JavaScript
 
 Website using Html, Css and Javascript. 
